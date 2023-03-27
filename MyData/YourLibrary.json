@@ -1,0 +1,50 @@
+{
+  "tracks": [
+  ],
+  "albums": [
+  ],
+  "shows": [
+    {
+      "name": "Bu Mu Yani?",
+      "publisher": "BMY Medya",
+      "uri": "spotify:show:5EIiOWjqVsr6WMvzZwjdxV"
+    },
+    {
+      "name": "Miuul Podcast ",
+      "publisher": "Miuul",
+      "uri": "spotify:show:4u515QQB1uKxurmTRDcgh5"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Semicenk",
+      "album": "Al Sevgilim",
+      "track": "Al Sevgilim",
+      "uri": "spotify:track:0UguFn9xs4WQshHabcxUxH"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Barış Demirezer",
+      "uri": "spotify:artist:4pz2h5AXGJX6jrbgLB8qUp"
+    },
+    {
+      "name": "Damien Rice",
+      "uri": "spotify:artist:14r9dR01KeBLFfylVSKCZQ"
+    },
+    {
+      "name": "Glen Hansard",
+      "uri": "spotify:artist:3Caot8EtHX6wLpNF2wRzS0"
+    },
+    {
+      "name": "Radiohead",
+      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
