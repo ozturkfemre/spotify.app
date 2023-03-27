@@ -15,6 +15,7 @@ ui <- fluidPage(
     gradient = "linear",
     direction = "bottom"
   ),
+  
   # File Input
   fileInput(inputId = "file", label = "Upload your StreamingHistory0.json file"),
   
