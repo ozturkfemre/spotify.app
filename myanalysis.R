@@ -6,7 +6,7 @@ library(paletteer)
 library(ggthemes)
 library(circular)
 
-history <- fromJSON("/home/feo/Desktop/github/spotify.app/MyData/StreamingHistory0.json", flatten = TRUE)
+history <- fromJSON("MyData/StreamingHistory0.json", flatten = TRUE)
 
 
 
