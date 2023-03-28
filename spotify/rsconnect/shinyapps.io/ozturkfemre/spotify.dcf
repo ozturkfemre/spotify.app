@@ -1,0 +1,13 @@
+name: spotify
+title: spotify
+username:
+account: ozturkfemre
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8695221
+bundleId: 7018229
+url: https://ozturkfemre.shinyapps.io/spotify/
+when: 1680006153.01046
+lastSyncTime: 1680006153.01048
+asMultiple: FALSE
+asStatic: FALSE
